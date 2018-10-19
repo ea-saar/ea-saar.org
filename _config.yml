@@ -22,6 +22,8 @@ url: "https://ea-saar.org" # the base hostname & protocol for your site, e.g. ht
 twitter_username: EA_saar
 github_username:  ea-saar
 
+logo: EA-saar.svg
+
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-cayman

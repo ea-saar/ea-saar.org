@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="EA_Lightbulb"
+   data-name="EA Lightbulb"
+   viewBox="0 0 599.99997 600.00001"
+   version="1.1"
+   sodipodi:docname="EA-saar.svg"
+   width="600"
+   height="600"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:export-filename="/home/holger/Sync/EA/EA-saar-4k.png"
+   inkscape:export-xdpi="655.35999"
+   inkscape:export-ydpi="655.35999">
+  <metadata
+     id="metadata33">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     id="namedview31"
+     showgrid="false"
+     inkscape:zoom="1.060031"
+     inkscape:cx="624.78075"
+     inkscape:cy="248.47288"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="EA_Lightbulb" />
+  <defs
+     id="defs20">
+    <style
+       id="style2">.cls-1 { fill: none; } .cls-2 { clip-path: url(#clip-path); } .cls-3 { fill: url(#linear-gradient); } .cls-4 { clip-path: url(#clip-path-2); } .cls-5 { fill: url(#linear-gradient-2); } .cls-6 { fill: #00839b; } .cls-7 { clip-path: url(#clip-path-3); } .cls-8 { fill: url(#linear-gradient-3); }</style>
+    <clipPath
+       id="clip-path">
+      <path
+         d="m 82.92,402.23 a 12.44,12.44 0 0 0 12.45,12.43 c 57.9,0 86.43,1.06 102.14,25 A 12.438043,12.438043 0 0 0 218.3,426 C 194.54,389.78 152.94,389.78 95.37,389.78 a 12.44,12.44 0 0 0 -12.45,12.43"
+         class="cls-1"
+         id="path4"
+         inkscape:connector-curvature="0"
+         style="fill:none" />
+    </clipPath>
+    <linearGradient
+       id="linear-gradient"
+       x1="-588.17999"
+       x2="-583.66998"
+       y1="575.92999"
+       y2="575.92999"
+       gradientTransform="matrix(0,-5.96,-5.96,0,3587.57,-3062.87)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#00839b"
+         id="stop7" />
+      <stop
+         offset="1"
+         stop-color="#1f5369"
+         id="stop9" />
+    </linearGradient>
+    <clipPath
+       id="clip-path-2">
+      <path
+         d="m 82.92,352.31 a 12.44,12.44 0 0 0 12.45,12.42 c 59.29,0 95.23,2.61 99.62,15.38 -1,2.44 -4.24,4.85 -14.44,6.78 -15.7,3 -40.47,2.93 -74.75,2.9 H 95.37 a 12.435,12.435 0 1 0 0,24.87 h 19.93 c 30.75,0 53.51,-0.26 69.87,-3.34 16.81,-3.17 27.6,-10.11 32.36,-20.65 1.74,-2.13 2.75,-9.78 2.68,-10.75 -0.07,-0.97 -0.73,-8.26 -2.16,-10.29 -11.29,-29.75 -63.39,-29.76 -122.68,-29.76 a 12.44,12.44 0 0 0 -12.45,12.44"
+         class="cls-1"
+         id="path12"
+         inkscape:connector-curvature="0"
+         style="fill:none" />
+    </clipPath>
+    <linearGradient
+       id="linear-gradient-2"
+       x1="-556.63"
+       x2="-552.13"
+       y1="604.42999"
+       y2="604.42999"
+       gradientTransform="matrix(0,-10.37,-10.37,0,6416.93,-5369.14)"
+       xlink:href="#linear-gradient" />
+    <clipPath
+       id="clip-path-3">
+      <path
+         d="m 76.23,140.94 c -10,14.36 -11.23,34 -3.4,55.35 7.36,20.07 25.05,40.45 38,53.68 a 12.364248,12.364248 0 0 0 17.64,-17.33 c -15.73,-16 -28,-32.61 -32.48,-44.87 -5,-13.53 -4.81,-25.12 0.46,-32.68 3.76,-5.39 10.07,-8.36 17.74,-8.36 5.39,0 12.62,5.06 16.31,11.06 a 52.72,52.72 0 0 1 12.75,-20 c -7.44,-8.17 -17.38,-15.77 -29.06,-15.77 -15.76,0 -29.61,6.91 -38,18.94"
+         class="cls-1"
+         id="path16"
+         inkscape:connector-curvature="0"
+         style="fill:none" />
+    </clipPath>
+    <linearGradient
+       id="linear-gradient-3"
+       x1="-515.38"
+       x2="-510.87"
+       y1="624.52002"
+       y2="624.52002"
+       gradientTransform="matrix(16,-12.94,-12.94,-16,16399.42,3529.29)"
+       xlink:href="#linear-gradient" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linear-gradient"
+       id="linearGradient35"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,-5.96,-5.96,0,3587.57,-3062.87)"
+       x1="-588.17999"
+       y1="575.92999"
+       x2="-583.66998"
+       y2="575.92999" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linear-gradient"
+       id="linearGradient876"
+       gradientTransform="matrix(16,-12.94,-12.94,-16,16399.42,3529.29)"
+       x1="-534.29883"
+       y1="614.67596"
+       x2="-527.2901"
+       y2="605.11627" />
+  </defs>
+  <g
+     id="g41"
+     transform="translate(157.04,-125.38339)">
+    <path
+       transform="translate(0,154.73001)"
+       style="fill:url(#linearGradient35)"
+       inkscape:connector-curvature="0"
+       id="path22"
+       clip-path="url(#clip-path)"
+       class="cls-2 cls-3"
+       d="m 82.92,389.79 h 139.14 v 55.48 H 82.92 Z" />
+    <path
+       transform="translate(0,154.73001)"
+       style="fill:url(#linear-gradient-2)"
+       inkscape:connector-curvature="0"
+       id="path24"
+       clip-path="url(#clip-path-2)"
+       class="cls-4 cls-5"
+       d="m 82.92,339.87 h 137.36 v 74.8 H 82.92 Z" />
+    <path
+       style="fill:#00839b"
+       inkscape:connector-curvature="0"
+       id="path26"
+       class="cls-6"
+       d="m 143,154.73001 c -77.5,0 -140.51,63 -140.51,140.47 a 140.46,140.46 0 0 0 34.17,91.78 c 0.11,0.13 11,13.14 18,39 6.34,23.75 23.34,36.9 47.73,36.9 h 23.36 c 13.4,0 24.81,-2.61 66.5,-66.95 7.58,-11.7 16.49,-30.35 21.63,-46.78 8.75,-28 2.38,-45 -4.51,-54.37 -8,-10.88 -21.24,-17.38 -35.4,-17.38 -10.94,0 -22,7.08 -30.67,15.14 a 52.72,52.72 0 0 0 -12.75,20 40.59,40.59 0 0 0 -2.35,13.37 c 0,10.9 8.58,17.15 13.92,17.15 7.74,0 14.19,-9.61 14.19,-17.15 a 44.23,44.23 0 0 0 -2,-12.65 c 4.81,-6.34 14,-11.15 19.71,-11.15 2.37,0 10.5,0.53 15.48,7.3 4.98,6.77 5.32,18 0.85,32.35 -3.72,11.87 -11.07,27.79 -18.34,40 -15.8,26.61 -30.78,42.16 -38.84,51.05 a 14.45,14.45 0 0 1 -11.64,5.29 l -19.09,-0.11 c -13,0 -20.33,-5.68 -23.74,-18.44 -8.52,-31.47 -22.28,-47.73 -23.21,-48.82 a 115.59,115.59 0 1 1 203.07,-75.53 c 0,28.87 -10.78,59.28 -28.12,79.36 l -0.05,0.06 c -4,4.45 -29.17,34.45 -29.17,89.05 0,15.39 -32.73,30.93 -105.84,30.93 a 12.43,12.43 0 1 0 0,24.86 c 113.72,0 130.7,-34.95 130.7,-55.79 0,-47.38 21.76,-71.31 22.79,-72.42 0.1,-0.1 0.16,-0.21 0.25,-0.31 0.09,-0.1 0.09,-0.08 0.13,-0.13 21.41,-24.77 34.18,-60.51 34.18,-95.61 -0.01,-77.47 -63.02,-140.47 -140.43,-140.47" />
+    <path
+       transform="translate(0,154.73001)"
+       style="fill:url(#linearGradient876);fill-opacity:1"
+       inkscape:connector-curvature="0"
+       id="path28"
+       clip-path="url(#clip-path-3)"
+       class="cls-7 cls-8"
+       d="M 0,174.59 112.31,83.7 208.28,202.3 95.98,293.19 Z" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:42.66666794px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#166178;fill-opacity:1;stroke:#166178;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="297.65549"
+     y="569.38538"
+     id="text45"><tspan
+       sodipodi:role="line"
+       id="tspan43"
+       x="297.65549"
+       y="569.38538"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:96px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#166178;fill-opacity:1;stroke:#166178;stroke-opacity:1"><tspan
+   style="font-weight:bold"
+   id="tspan878">EA</tspan> Saar</tspan></text>
+</svg>
